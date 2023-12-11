@@ -2,7 +2,7 @@ import { html, css } from "iares";
 
 const template = () => html`
   <div class="wrap-ctx">
-    <h1>Hello Word, I'm IARES!</h1>
+    <h1>Hello Word, ACCOUNT! </h1>
   </div>
 `;
 
